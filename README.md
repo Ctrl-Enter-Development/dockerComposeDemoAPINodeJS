@@ -12,7 +12,7 @@ https://github.com/Ctrl-Enter-Development/backSecretariaDesenvolvimentoRural.git
 https://github.com/Ctrl-Enter-Development/bdSecretariaDesenvolvimentoRural.git
 
 #Repositorio frontSecretariaDesenvolvimentoRural
-https://github.com/Ctrl-Enter-Development/bdSecretariaDesenvolvimentoRural.git
+https://github.com/Ctrl-Enter-Development/frontSecretariaDesenvolvimentoRural
 This project was made with the follow resources:
 
 # Passo 2, seguir o README de cada repositorio e depois voltar aqui
