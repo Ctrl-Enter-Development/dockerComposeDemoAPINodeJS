@@ -1,18 +1,18 @@
-# Docker Secretaria-Desenvolvimento-Rural
+# Docker Demo API Login JWT/Bycript
 
 Docker version: 24.0.3
 Docker Compose version:  v2.19.1
 
 
 # Passo 1, fazer clone dos seguintes repositorios na raiz desse repositorio
-#Repositorio backSecretariaDesenvolvimentoRural
-https://github.com/Ctrl-Enter-Development/backSecretariaDesenvolvimentoRural.git
+#Repositorio backEndDemoAPILoginJWTBycript
+https://github.com/Ctrl-Enter-Development/backEndDemoAPILoginJWTBycript.git
 
-#Repositorio bdSecretariaDesenvolvimentoRural 
-https://github.com/Ctrl-Enter-Development/bdSecretariaDesenvolvimentoRural.git
+#Repositorio bdDemoAPILoginJWTBycript 
+https://github.com/Ctrl-Enter-Development/bdDemoAPILoginJWTBycript.git
 
-#Repositorio frontSecretariaDesenvolvimentoRural
-https://github.com/Ctrl-Enter-Development/frontSecretariaDesenvolvimentoRural
+#Repositorio frontEndDemoAPILoginJWTBycript
+https://github.com/Ctrl-Enter-Development/frontEndDemoAPILoginJWTBycript
 This project was made with the follow resources:
 
 # Passo 2, seguir o README de cada repositorio e depois voltar aqui
